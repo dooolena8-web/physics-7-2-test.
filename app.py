@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # НАЛАШТУВАННЯ: Вставте сюди ваше посилання на Google Apps Script Web App
-WEB_APP_URL = "https://docs.google.com/spreadsheets/d/1YiqkJ0CpdDcoeYl6oEUw0QxPZXBrT55udK5InaRarzc/edit?usp=sharing"
+WEB_APP_URL = "https://script.google.com/macros/s/AKfycbytGIGat1BP3_b7n8zcuqMDHNbtC6NLtbg44HHsWGtznMJrxXazc_CBdGVcmekgc7AAiA/exec"
 
 st.set_page_config(page_title="Тест з фізики: Методи досліджень", layout="centered")
 
